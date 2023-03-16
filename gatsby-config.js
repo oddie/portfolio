@@ -12,7 +12,7 @@ module.exports = {
     title: `Portfolio`,
     description: `Oleg Kovalev's Portfolio`,
     author: `@oleg.kovalev`,
-    siteUrl: ``,
+    siteUrl: `https://dev2.webartisan.ru`,
   },
   plugins: [
     `gatsby-plugin-image`,
